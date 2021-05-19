@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba7_OOP_new", "Laba7_OOP_new\Laba7_OOP_new.csproj", "{8098757B-728D-48FD-BBE1-6A6C059D0944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba7Lib", "Laba7Lib\Laba7Lib.csproj", "{C109535D-A599-4932-8429-EE78A36932C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8098757B-728D-48FD-BBE1-6A6C059D0944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8098757B-728D-48FD-BBE1-6A6C059D0944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8098757B-728D-48FD-BBE1-6A6C059D0944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8098757B-728D-48FD-BBE1-6A6C059D0944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C109535D-A599-4932-8429-EE78A36932C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C109535D-A599-4932-8429-EE78A36932C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C109535D-A599-4932-8429-EE78A36932C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C109535D-A599-4932-8429-EE78A36932C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A7BE4FE-BDDF-47DA-ACBE-581B8DD7611E}
+	EndGlobalSection
+EndGlobal
